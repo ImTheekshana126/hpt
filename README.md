@@ -8,6 +8,13 @@
 
 ### Deploy to heroku 💤
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dasunpamod/hpt"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+
+
+
+
+
+
 - Fork this repo, create heroku new app and connect forked repo
 - Then get all vars from [here](https://github.com/ImJanindu/Mizuki/blob/main/vars)
 - Simply set all vars from heroku app settings
